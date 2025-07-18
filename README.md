@@ -30,7 +30,7 @@ random/
 │   └── bocchi2.png     # Imágenes del sitio
 └── README.md           # Este archivo
 ## 🎯 Secciones Principales
-Servicios
+### Servicios
 
 Servicio 1: [Descripción del primer servicio]
 Servicio 2: [Descripción del segundo servicio]
