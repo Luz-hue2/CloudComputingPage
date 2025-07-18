@@ -7,7 +7,6 @@ Visita la página en vivo: https://rrandomm.netlify.app
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0bb721ec-5253-41e7-a968-7228d0d9a551" />  
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47a975f8-da36-48c5-94bf-46ccd523349d" />  
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9fe174ce-d9f1-485b-9af8-3488eee7e13b" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d1846f35-1032-41dc-9f54-81e06d442890" />  
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7db0422e-2271-4998-9750-8238fbc29d9c" />
 
 
